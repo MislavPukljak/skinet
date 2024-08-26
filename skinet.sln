@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{A084E235-6AC6-46D9-8407-FED04C17BA1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{1A5ED2C0-CF55-40D4-8A0D-389E9D91CBAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{64B4002E-9609-46DB-89F7-52CC87A13041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A084E235-6AC6-46D9-8407-FED04C17BA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A084E235-6AC6-46D9-8407-FED04C17BA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A084E235-6AC6-46D9-8407-FED04C17BA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A084E235-6AC6-46D9-8407-FED04C17BA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A5ED2C0-CF55-40D4-8A0D-389E9D91CBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5ED2C0-CF55-40D4-8A0D-389E9D91CBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5ED2C0-CF55-40D4-8A0D-389E9D91CBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5ED2C0-CF55-40D4-8A0D-389E9D91CBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B4002E-9609-46DB-89F7-52CC87A13041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B4002E-9609-46DB-89F7-52CC87A13041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B4002E-9609-46DB-89F7-52CC87A13041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B4002E-9609-46DB-89F7-52CC87A13041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
